@@ -1,0 +1,8 @@
+name: rec_sys
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - pandas
+prefix: /home/andrey/anaconda3/envs/rec_sys
